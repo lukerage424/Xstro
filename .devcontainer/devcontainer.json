@@ -1,5 +1,5 @@
 {
-    "name": "Xstro",
+    "name": "krugar",
     "build": {
         "dockerfile": "../Dockerfile"
     },
