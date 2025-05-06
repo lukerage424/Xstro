@@ -1,12 +1,12 @@
 {
-    "name": "xstro",
-    "description": "Simple, free, open-source WhatsApp bot.",
+    "name": "krugar-md",
+    "description": "Simple, free, open WhatsApp bot by krugar,mobs and muzan .",
     "logo": "https://avatars.githubusercontent.com/u/188756392?v=4",
     "repository": "https://github.com/AstroX11/Xstro",
     "stack": "container",
     "success_url": "/",
     "env": {
-        "NUMBER": {
+        "NUMBER": {78615687
             "description": "Your WhatsApp Account Number that want's to run the bot.",
             "required": true
         }
